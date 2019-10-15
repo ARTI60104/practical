@@ -1,3 +1,3 @@
 # practical
-hey!exploring github
-good for you!!!
+hey!exploring github<BR>
+ It's good!!!
