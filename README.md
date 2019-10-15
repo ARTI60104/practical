@@ -1,2 +1,2 @@
 # practical
-hey!exploring github
+//hey!exploring github
